@@ -8,7 +8,7 @@ Get a fair coin flip result from a biased coin
 #### Usage:
     Usage python3 fairflip.py <heads_percent>
 
-    heads_percent is the chance happening from a single coin flip (The heads bias).  heads_percent is a whole number from 1 and 99
+    heads_percent is the chance of HEADS happening from a single coin flip (The heads bias).  heads_percent is a whole number from 1 and 99
 
     Examples:
       python3 fairflip.py 60
