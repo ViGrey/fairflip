@@ -3,7 +3,7 @@
 Get a fair coin flip result from a biased coin
 
 #### Dependencies:
-- Python >= 3
+- Python >= 2
 
 #### Usage:
     Usage python3 fairflip.py <heads_percent>
